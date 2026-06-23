@@ -1,5 +1,30 @@
-## Hi there 👋
+# Salam, I'm Hafizah!
 
+🎓 BS Mathematics for Data sciences,2nd semester.
+📍 The University of Lahore.
+
+##Currently learning:
+Machine learning and AI using python
+
+##Skills:
+python | OOP |Data Science Libraries (Numpy,Pandas,Matplotlib,Seaborn,Sk-learn)
+
+##Projects:
+python mini projects
+
+##Interests:
+Love coding since matric, python is my favourite.
+Passionate about my degree (Mathematics & Data Science)
+Beyond academics - fascinated by History ,currently reading Why Nations Fail.
+
+##Goals:
+Build impactful Data Science Projects
+Contribute to academic research
+Grow as an Data Scientist.
+
+ 
+##Contact:
+-GitHub: @iHafizah
 <!--
 **iHafizah/iHafizah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
