@@ -1,4 +1,4 @@
-# Salam, I'm Hafizah!
+# Salam, I'm Hafizah Noshaba!
 
 🎓 BS Mathematics for Data sciences,2nd semester.                                                                                          
 📍 The University of Lahore.
