@@ -10,7 +10,7 @@ Machine learning and AI using python
 python | OOP |Data Science Libraries (Numpy,Pandas,Matplotlib,Seaborn,Sk-learn)
 
 ## Projects:
-python mini projects
+python | Data Science | Machine Learning
 
 ## Interests:
 Love coding since matric, python is my favourite.
