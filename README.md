@@ -1,6 +1,6 @@
 # Salam, I'm Hafizah Noshaba!
 
-🎓 BS Mathematics for Data sciences,2nd semester.                                                                                          
+🎓 BS Mathematics for Data sciences.                                                                                         
 📍 The University of Lahore.
 
 ## Currently learning:
