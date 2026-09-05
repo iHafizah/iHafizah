@@ -17,8 +17,6 @@ Love coding since matric, python is my favourite.
 
 Passionate about my degree (Mathematics & Data Science)
 
-Beyond academics - fascinated by History ,currently reading Why Nations Fail.
-
 ## Goals:
 Build impactful Data Science Projects
 
