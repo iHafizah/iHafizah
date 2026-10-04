@@ -4,10 +4,10 @@
 📍 The University of Lahore.
 
 ## Currently learning:
-Machine learning and AI using python
+SQL from Harvard's cs50 SQl 
 
 ## Skills:
-python | OOP |Data Science Libraries (Numpy,Pandas,Matplotlib,Seaborn,Sk-learn)
+python | OOP |Data Science Libraries (Numpy,Pandas,Matplotlib,Seaborn,Sk-learn) | ML (linear regression,ridge,lasso,random forest,k-means clustering,svm)
 
 ## Projects:
 python | Data Science | Machine Learning
