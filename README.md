@@ -5,6 +5,7 @@
 
 ## Currently learning:
 SQL from Harvard's cs50 SQl 
+Data science,Ml
 
 ## Skills:
 python | OOP |Data Science Libraries (Numpy,Pandas,Matplotlib,Seaborn,Sk-learn) | ML (linear regression,ridge,lasso,random forest,k-means clustering,svm)
